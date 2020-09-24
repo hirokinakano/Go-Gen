@@ -1,1 +1,1 @@
-# LGTM-Generator
+# Go-Gen
